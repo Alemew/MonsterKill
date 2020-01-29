@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Mapa {
-
+// comentario
 	public void crearEnemigo(){
 		String[] nombre = {"Dragon", "Ogro", "Duende"};
 		int[] vida = {500,300,175};
