@@ -31,4 +31,5 @@ public class Heroe {
 	public int getCuracion() {
 		return curacion;
 	}
+	//Copiado de internet, nada original
 }
